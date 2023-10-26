@@ -1,0 +1,49 @@
+.banner {
+    background: url("/foto/peakpx.jpg");
+        no-repeat center center;
+        background-size: cover;
+        padding-top: 20%;
+        padding-bottom: 20%;
+        color: #fff;
+}
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #dc3545;
+}
+.lingkaran i {
+    position: relative;
+    top: 30px;
+
+}
+.crop img {
+    object-fit: ;
+}
+.tim img {
+    width: 250px;
+    border: 10px-solid#d6d6d6;
+}
+.sosial {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+}
+.client img {
+    height: auto;
+    max-height: 50px;
+}
+footer {
+    height: 10vh;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 5px;
+  }
